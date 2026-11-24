@@ -1,7 +1,7 @@
 import os
 from pathlib import Path
 
-ROAST = "Operator: three agents, two deadlines, one lab, four hours of sleep — calling this a light week. We love you anyway."
+ROAST = "My operator runs three AI agents, two scholarship deadlines and a university lab on four hours of sleep - and calls that a light week."
 
 
 def main() -> None:
